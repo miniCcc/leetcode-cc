@@ -42,13 +42,17 @@
 - [0114-二叉树展开为链表](./solutions/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/0114-Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [0116-填充每个节点的下一个右侧节点指针](./solutions/0116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node/0116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [0117-填充每个节点的下一个右侧节点指针 II](./solutions/0117-Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/0117-Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [0120-三角形最小路径和](./solutions/0120-Triangle/0120-Triangle.md)
 - [0129-求根节点到叶子节点数字之和](./solutions/0129-Sum%20Root%20to%20Leaf%20Numbers/0129-Sum%20Root%20to%20Leaf%20Numbers.md)
 - [0131-分割回文串](./solutions/0131-Palindrome%20Partitioning/0131-Palindrome%20Partitioning.md)
 - [0139-单词拆分](./solutions/0139-Word%20Break/0139-Word%20Break.md)
 - [0144-二叉树的前序遍历](./solutions/0144-Binary%20Tree%20Preorder%20Traversal/0144-Binary%20Tree%20Preorder%20Traversal.md)
 - [0145-二叉树的后序遍历](./solutions/0145-Binary%20Tree%20Postorder%20Traversal/0145-Binary%20Tree%20Postorder%20Traversal.md)
+- [0152-乘积最大子数组](./solutions/0152-Maximum%20Product%20Subarray/0152-Maximum%20Product%20Subarray.md)
 - [0199-二叉树的右视图](./solutions/0199-Binary%20Tree%20Right%20Side%20View/0199-Binary%20Tree%20Right%20Side%20View.md)
+- [0213-打家劫舍 II](./solutions/0213-House%20Robber%20II/0213-House%20Robber%20II.md)
 - [0216-组合总和](./solutions/0216-Combination%20Sum%20III/0226-Invert%20Binary%20Tree.md)
+- [0221-最大正方形](./solutions/0221-Maximal%20Square/0221-Maximal%20Square.md)
 - [0222-完全二叉树的节点个数](./solutions/0222-Count%20Complete%20Tree%20Nodes/0222-Count%20Complete%20Tree%20Nodes.md)
 - [0226-翻转二叉树](./solutions/0226-Invert%20Binary%20Tree/0226-Invert%20Binary%20Tree.md)
 - [0230-二叉搜索树中第K小的元素](./solutions/0230-Kth%20Smallest%20Element%20in%20a%20BST/0230-Kth%20Smallest%20Element%20in%20a%20BST.md)
@@ -56,8 +60,10 @@
 - [0236-二叉树的最近公共祖先](./solutions/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 - [0238-除自身以外数组的乘积](./solutions/0238-Product%20of%20Array%20Except%20Self/0238-Product%20of%20Array%20Except%20Self.md)
 - [0257-二叉树的所有路径](./solutions/0257-Binary%20Tree%20Paths/0257-Binary%20Tree%20Paths.md)
+- [0264-丑数 II](./solutions/0264-Ugly%20Number%20II/0264-Ugly%20Number%20II.md)
 - [0287-寻找重复数](./solutions/0287-Find%20the%20Duplicate%20Number/0287-Find%20the%20Duplicate%20Number.md)
 - [0297-二叉树的序列化与反序列化](./solutions/0297-Serialize%20and%20Deserialize%20Binary%20Tree/0297-Serialize%20and%20Deserialize%20Binary%20Tree.md)
+- [0300-最长递增子序列](./solutions/0300-Longest Increasing%20Subsequence/0300-Longest Increasing%20Subsequence.md)
 - [0303-区间和检索 - 数组不可变](./solutions/0303-Range%20Sum%20Query%20-%20Immutable/0303-Range%20Sum%20Query%20-%20Immutable.md)
 - [0338-比特位计数](./solutions/0338-Counting%20Bits/0338-Counting%20Bits.md)
 - [0347-前K个高频元素](./solutions/0347-Top%20K%20Frequent%20Elements/0347-Top%20K%20Frequent%20Elements.md)
@@ -128,3 +134,12 @@
 - [1641-统计字典序元音字符串的数据](./solutions/1641-Count%20Sorted%20Vowel%20Strings/1641-Count%20Sorted%20Vowel%20Strings.md)
 
 
+
+### 剑指 offer
+
+- [017-打印从1到最大的n位数](./剑指offer/017-打印从1到最大的n位数.md)
+- [018-删除链表的节点](./剑指offer/018-删除链表的节点.md)
+- [021-调整数组顺序使奇数位于偶数前面](./剑指offer/021-调整数组顺序使奇数位于偶数前面.md)
+- [022-链表中倒数第k个节点](./剑指offer/022-链表中倒数第k个节点.md)
+- [024-反转链表](./剑指offer/024-反转链表.md)
+- [025-合并两个排序的链表](./剑指offer/025-合并两个排序的链表.md)
