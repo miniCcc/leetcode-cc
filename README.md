@@ -63,7 +63,7 @@
 - [0264-丑数 II](./solutions/0264-Ugly%20Number%20II/0264-Ugly%20Number%20II.md)
 - [0287-寻找重复数](./solutions/0287-Find%20the%20Duplicate%20Number/0287-Find%20the%20Duplicate%20Number.md)
 - [0297-二叉树的序列化与反序列化](./solutions/0297-Serialize%20and%20Deserialize%20Binary%20Tree/0297-Serialize%20and%20Deserialize%20Binary%20Tree.md)
-- [0300-最长递增子序列](./solutions/0300-Longest Increasing%20Subsequence/0300-Longest%20Increasing%20Subsequence.md)
+- [0300-最长递增子序列](./solutions/0300-Longest%20Increasing%20Subsequence/0300-Longest%20Increasing%20Subsequence.md)
 - [0303-区间和检索 - 数组不可变](./solutions/0303-Range%20Sum%20Query%20-%20Immutable/0303-Range%20Sum%20Query%20-%20Immutable.md)
 - [0338-比特位计数](./solutions/0338-Counting%20Bits/0338-Counting%20Bits.md)
 - [0347-前K个高频元素](./solutions/0347-Top%20K%20Frequent%20Elements/0347-Top%20K%20Frequent%20Elements.md)
